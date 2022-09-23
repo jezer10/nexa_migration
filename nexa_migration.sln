@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "nexa_migration", "nexa_migration\nexa_migration.dtproj", "{5C4330EB-86E9-4630-9DC7-75A653B632FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4330EB-86E9-4630-9DC7-75A653B632FB}.Development|Default.ActiveCfg = Development
+		{5C4330EB-86E9-4630-9DC7-75A653B632FB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BA8789D-6FE6-4B30-88F4-9C3F5B6DB4A8}
+	EndGlobalSection
+EndGlobal
