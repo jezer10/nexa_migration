@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+------ Operación Compilar iniciada: proyecto: nexa_migration (SQL Server 2019), configuración: Development ------
+Build started: SQL Server Integration Services project: Incremental ...
+Generación completa -- 0 errores, 0 advertencias
+========== Compilar: 1 correctos o actualizados, 0 incorrectos, 0 omitidos ==========
